@@ -1,3 +1,8 @@
-for (var i = 0; i < 25; i++) {
-  arr[i]="I am ${i} strange loops.")
-}
+function forLoop(array)
+{
+  for (var i = 0; i < 25; i++) 
+  {
+    array[i]="I am ${i} strange loops."
+  }
+}  
+  
